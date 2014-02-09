@@ -1,0 +1,6 @@
+
+cron:
+- description: auto reboot the router
+  url: /
+  schedule: every day 05:30
+  timezone: Asia/Hong_Kong
